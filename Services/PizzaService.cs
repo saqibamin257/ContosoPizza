@@ -9,7 +9,7 @@ public static class PizzaService
     //constructor
     static PizzaService()
     {
-        Pizzas=new List<Pizza>
+        Pizzas = new List<Pizza>
         {
             new Pizza{Id=1, Name="Classic Italian", IsGlutenFree=false},
             new Pizza{Id=2, Name="Veggie", IsGlutenFree=false}
@@ -17,7 +17,7 @@ public static class PizzaService
     }
     //EndPoints Methods
     public static List<Pizza> GetAll() => Pizzas;
-    public static Pizza? Get(int id) => Pizzas.FirstOrDefault(p=>p.Id==id);
+    public static Pizza? Get(int id) => Pizzas.FirstOrDefault(p=> p.Id == id);
 
     public static void Add(Pizza pizza)
     {

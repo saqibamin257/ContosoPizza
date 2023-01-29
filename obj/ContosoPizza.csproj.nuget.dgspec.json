@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github-Projects\\DotNetCore-WebAPI-Projects\\ContosoPizza\\ContosoPizza.csproj": {}
+    "D:\\Projects\\GitHub\\DotNetCore-RestfulAPIs\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "D:\\Github-Projects\\DotNetCore-WebAPI-Projects\\ContosoPizza\\ContosoPizza.csproj": {
+    "D:\\Projects\\GitHub\\DotNetCore-RestfulAPIs\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github-Projects\\DotNetCore-WebAPI-Projects\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "D:\\Projects\\GitHub\\DotNetCore-RestfulAPIs\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "D:\\Github-Projects\\DotNetCore-WebAPI-Projects\\ContosoPizza\\ContosoPizza.csproj",
-        "packagesPath": "C:\\Users\\Saqib Amin\\.nuget\\packages\\",
-        "outputPath": "D:\\Github-Projects\\DotNetCore-WebAPI-Projects\\ContosoPizza\\obj\\",
+        "projectPath": "D:\\Projects\\GitHub\\DotNetCore-RestfulAPIs\\ContosoPizza\\ContosoPizza.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\GitHub\\DotNetCore-RestfulAPIs\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Saqib Amin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,8 +54,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
